@@ -1,0 +1,9 @@
+nav a{
+    margin: 30px;
+    color: aqua;
+}
+nav a button{
+    color: rgb(255, 0, 0);
+    font-size: 15px;
+    
+}
