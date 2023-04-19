@@ -1,13 +1,32 @@
-nav a{
-    margin: 30px;
-    color: aqua;
+nav{
+    margin: 5rem;
 }
-nav a button{
-    color: rgb(255, 0, 0);
+nav a{
+    margin: 15px;
+    min-width: 100px;
+    display: inline-block;
+    text-align: center;
+    
+    
+
+
+    color: rgb(250, 246, 246);
     font-size: 15px;
+    background-color: black;
+    padding: 1rem;
+    text-decoration: none;
     
 }
 body {
-    background-color: rgb(223, 11, 11);
+    background-color: rgb(6, 2, 2);
+}
+header{
+    text-align: center;
+ }
+.logo{
+    max-height:70vh;
+    margin:auto;
+    width: 1000;
+}
 
-    
+
