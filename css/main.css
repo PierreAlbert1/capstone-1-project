@@ -1,3 +1,32 @@
+nav{
+    margin: 5rem;
+}
+nav a{
+    margin: 15px;
+    min-width: 100px;
+    display: inline-block;
+    text-align: center;
+    
+    
+
+    color: rgb(250, 246, 246);
+    font-size: 15px;
+    background-color: black;
+    padding: 1rem;
+    text-decoration: none;
+    
+}
+body {
+    background-color: rgb(6, 2, 2);
+}
+header{
+    text-align: center;
+ }
+.logo{
+    max-height:70vh;
+    margin:auto;
+    width: 1000;
+}
 head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -46,6 +75,9 @@ head>
     <img src="images/women in suit .jpeg" alt="" class="logo">
 </header>
 <p>
+        Two of the most common recycled swimwear fabrics are Repreve, which is a polyester made from plastic bottles, and Econyl, a nylon made from fishing nets and carpets. Most recycled synthetics need to be blended with virgin materials to ensure the quality of the garment isn't compromised.Jan 16, 2023
+</p>
+<p>
 
 Two of the most common recycled swimwear fabrics are Repreve, which is a polyester made from plastic bottles, and Econyl, a nylon made from fishing nets and carpets. Most recycled synthetics need to be blended with virgin materials to ensure the quality of the garment isn't compromised.Jan 16, 2023
 </p>
@@ -53,5 +85,4 @@ Two of the most common recycled swimwear fabrics are Repreve, which is a polyest
         <img src="images/PPierre Logo.png" alt="">
  </footer>
 </body>
-
 
