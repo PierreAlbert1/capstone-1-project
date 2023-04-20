@@ -7,3 +7,8 @@ nav a button{
     font-size: 15px;
     
 }
+.card-img-top{
+    max-height: 88vh;
+    object-fit: contain;
+    margin-top: 8vh;
+}
