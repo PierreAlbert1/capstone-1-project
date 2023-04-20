@@ -32,6 +32,11 @@ color: rgb(44, 108, 198);
 width: 80%;
 margin:auto;
 }
+header img{
+    width: 30%;
+    height: 20vw;
+    object-fit: cover;
+}
 
 
 
