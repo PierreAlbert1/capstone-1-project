@@ -18,7 +18,13 @@ nav a{
 }
 body {
     background-color: rgb(6, 2, 2);
+    color: white;
 }
 header{
     text-align: center;
  }
+ 
+ <p {
+    color: rgb(102, 102, 145);
+ }
+ 
